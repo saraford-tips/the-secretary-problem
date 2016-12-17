@@ -1,5 +1,5 @@
 ﻿using System;
-namespace SecretaryProblem
+namespace TheSecretaryProblem
 {
   class SecretaryProblemProgram
   {
